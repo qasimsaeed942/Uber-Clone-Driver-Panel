@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116904307495",
+    "project_id": "bike-application-1511d",
+    "storage_bucket": "bike-application-1511d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116904307495:android:4f54aa8734292e1ee05702",
+        "android_client_info": {
+          "package_name": "com.bike.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116904307495-vjo78if72lqm45l3a77c8jqms2ati2j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEFU_Fgigqn_xDsIakGkCfE27j5kyaG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116904307495-vjo78if72lqm45l3a77c8jqms2ati2j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
