@@ -1,6 +1,6 @@
 # drivers_app
 
-A new Flutter project.
+# This is Driver side of uber clone app.. Note that everything is ready you just need to add google cloud api's in this project..
 
 ## Getting Started
 
